@@ -102,3 +102,11 @@ console.log(stableName);
 console.log("Hello welcome to") + stableName;
 // console.log('Hello welcome to $"stableName'!);
 console.log("I hope you are doing well!" + berry.name + "'s payment is currently overdue" + (berry.monthlyCost + berry.lateFee) + "Thank you so much for taking care of this" );
+
+// MAKING CHANGES TO THIS FILE FOR THIS NEW BRANCH
+// MAKING ANOTHER CHANGE TO THIS FILE!
+
+//  BLAH BLAH BLAH
+it (true) {
+    console.log("HI");
+}
